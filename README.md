@@ -17,7 +17,9 @@
 ---
 
 ## ⚡ GitHub Stats
-![Karukonda Tirumala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tirumala123-k&show_icons=true&theme=radical)
+![Karukonda Tirumala's GitHub Stats]<a href="https://github.com/Tirumala123-k" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tirumala123-k&show_icons=true&theme=radical" />
+</a>
 
 ---
 
