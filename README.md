@@ -18,9 +18,9 @@
 
 ## ⚡ GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=Tirumala123-k&show_icons=true&theme=tokyonight)
+[](https://github-readme-stats.vercel.app/api?username=Tirumala123-k&show_icons=true&theme=tokyonight)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Tirumala123-k&layout=compact&theme=tokyonight)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirumala123-k&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tirumala123-k&theme=tokyonight)
 
