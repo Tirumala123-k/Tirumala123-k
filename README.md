@@ -58,7 +58,7 @@
 
 ## 📂 My Projects
 Here are some of my repositories:
-## 📂 My Projects
+
 
 1. **[FireFightingRobot](https://github.com/Tirumala123-k/FireFightingRobot.git)** - An IoT-based robot that detects fire and automatically stops it using embedded code and sensors.  
 2. **[Health-Care-Plus](https://github.com/Tirumala123-k/health-care-plus.git)** - A web application for patients to find hospital and doctor information, and book online appointment slots easily.  
