@@ -3,7 +3,7 @@
 🎓 3rd-year Computer Science and Engineering student at **PES College of Engineering**  
 💻 Passionate about **Software Development, Web Development, and AI/ML**  
 🌱 Always learning **new technologies and improving my coding skills**  
-📫 Connect with me: [LinkedIn] (https://www.linkedin.com/in/karukonda-tirumala-911a51297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📫 Connect with me: [LinkedIn] (https://www.linkedin.com/in/karukonda-tirumala-911a51297  )
     [Email] (karukondatirumala7@gmail.com)
 
 ---
