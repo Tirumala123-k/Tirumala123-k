@@ -17,17 +17,12 @@
 ---
 
 ## ⚡ GitHub Stats
-<div align="center">
 
-<a href="https://github.com/Tirumala123-k" target="_blank">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=Tirumala123-k&show_icons=true&theme=tokyonight" />
-</a>
+![Tirumala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tirumala123-k&show_icons=true&theme=tokyonight)
 
-<img height="180em" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirumala123-k&layout=compact&theme=tokyonight"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirumala123-k&layout=compact&theme=tokyonight)
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tirumala123-k&theme=tokyonight)
 
 ---
 
