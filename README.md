@@ -67,6 +67,10 @@
 
 ---
 
+## profile views
+![Profile Views](https://komarev.com/ghpvc/?username=Tirumala123-k&color=blue)
+
+---
 
 ## 📂 My Projects
 Here are some of my repositories:
