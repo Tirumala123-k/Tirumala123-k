@@ -6,6 +6,12 @@
 📫 Connect with me: [LinkedIn] (https://www.linkedin.com/in/karukonda-tirumala-911a51297  )
     [Email] (karukondatirumala7@gmail.com)
 
+## profile views
+![Profile Views](https://komarev.com/ghpvc/?username=Tirumala123-k&color=blue)
+
+---
+
+
 ---
 
 ## 💡 About Me
@@ -64,11 +70,6 @@
 
 ## 📈 Contribution Graph
 ![Tirumala's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tirumala123-k&theme=tokyo-night)
-
----
-
-## profile views
-![Profile Views](https://komarev.com/ghpvc/?username=Tirumala123-k&color=blue)
 
 ---
 
