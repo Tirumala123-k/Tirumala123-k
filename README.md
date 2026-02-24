@@ -59,7 +59,14 @@
 ![Computer Networks](https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white)
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
 ---
+
+## 📈 Contribution Graph
+![Tirumala's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tirumala123-k&theme=tokyo-night)
+
+---
+
 
 ## 📂 My Projects
 Here are some of my repositories:
